@@ -7,7 +7,7 @@ import React ,{Component} from 'react'
             <div>
 {/* <button onClick={props.greetHandler}>Greet Parent</button> */}
 <button onClick={() =>
-    greetHandler('child')}>Greet Parent</button>
+    greetHandler('child class')}>Greet Parent</button>
 
             </div>
         )
